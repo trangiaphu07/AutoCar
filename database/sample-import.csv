@@ -1,0 +1,5 @@
+sku,name,category,brand,year,condition,mileage,color,price,sale_price,stock,status,short_description,attributes
+XE2001,Toyota Raize 1.0 Turbo,SUV / Crossover,Toyota,2025,new,0,Đỏ,498000000,,5,published,SUV đô thị cỡ nhỏ,so_cho=5 chỗ;nhien_lieu=Xăng;hop_so=Số tự động vô cấp CVT;dan_dong=Cầu trước (FWD);dong_co=1.0L Turbo;cong_suat=98
+XE2002,Honda Civic RS,Sedan,Honda,2025,new,0,Xám,999000000,949000000,3,published,Sedan thể thao,nhien_lieu=Xăng;hop_so=Số tự động vô cấp CVT;dong_co=1.5L VTEC Turbo;cong_suat=176
+,Thiếu mã xe,Sedan,Honda,2025,new,0,,500000000,,1,draft,,
+XE2004,Xe dòng lạ,Siêu xe,Ferrari,2025,new,0,Đỏ,20000000000,,1,draft,,
